@@ -1,0 +1,534 @@
+#snackbar {
+  /*visibility: hidden;  Hidden by default. Visible on click */
+  display: none; 
+  min-width: 350px; /* Set a default minimum width */
+  /*margin-right: 30px;  Divide value of min-width by 2 */
+  background-color: rgba(250,250,250,1); /* Black background color */
+  background-image: linear-gradient(-120deg, #f1f1f1 0%, #fff 100%, #ff0000 200%);
+  color: #00856f; /* White text color */
+  text-align: center; /* Centered text */
+  border-radius: 5px; /* Rounded borders */
+  padding: 16px; /* Padding */
+  position: fixed; /* Sit on top of the screen */
+  right:10px; /* Center the snackbar */
+  top: 70px; /* 30px from the bottom */
+  z-index: 10000;
+  border: 1px solid #006b55;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.snackbar {
+  /*visibility: hidden;  Hidden by default. Visible on click */
+  display: none; 
+  width: 60% ; /* Set a default minimum width */
+  /*margin-right: 30px;  Divide value of min-width by 2 */
+  background-color: rgba(250,250,250,0.7); /* Black background color */
+  color: #00856f; /* White text color */
+  text-align: center; /* Centered text */
+  border-radius: 5px; /* Rounded borders */
+  padding: 16px; /* Padding */
+  position: relative; /* Sit on top of the screen */
+  z-index: 10001;
+  border: 1px solid #006b55;
+  left: 50%; 
+  margin-left: -25%;
+  top: 10%; 
+}
+
+a {
+	text-decoration: none;
+}
+/** ----- LOGIN ---------- 
+
+body {
+    background-color: #f3f3f3;
+}
+
+.card {
+    border: none;
+    border-top: 5px solid rgb(176, 106, 252);
+    background: #212042;
+    color: #57557A
+}
+
+p {
+    font-weight: 600;
+    font-size: 15px
+}
+
+.fab {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background: #2A284D;
+    height: 40px;
+    width: 90px
+}
+
+.fab:hover {
+    cursor: pointer
+}
+
+.fa-twitter {
+    color: #56ABEC
+}
+
+.fa-facebook {
+    color: #1775F1
+}
+
+.fa-google {
+    color: #CB5048
+}
+
+.division {
+    float: none;
+    position: relative;
+    margin: 30px auto 20px;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box
+}
+
+.division .line {
+    border-top: 1.5px solid #57557A;
+    ;
+    position: absolute;
+    top: 13px;
+    width: 85%
+}
+
+.line.l {
+    left: 52px
+}
+
+.line.r {
+    right: 45px
+}
+
+.division span {
+    font-weight: 600;
+    font-size: 14px
+}
+
+.myform {
+    padding: 0 25px 0 33px
+}
+
+.form-control {
+    border: 1px solid #57557A;
+    border-radius: 3px;
+    background: #212042;
+    margin-bottom: 20px;
+    letter-spacing: 1px
+}
+
+.form-control:focus {
+    border: 1px solid #57557A;
+    border-radius: 3px;
+    box-shadow: none;
+    background: #212042;
+    color: #fff;
+    letter-spacing: 1px
+}
+
+.bn {
+    text-decoration: underline
+}
+
+.bn:hover {
+    cursor: pointer
+}
+
+.form-check-input {
+    margin-top: 8px !important
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, rgba(176, 106, 252, 1) 39%, rgba(116, 17, 255, 1) 101%);
+    border: none;
+    border-radius: 50px
+}
+
+.btn-primary:focus {
+    box-shadow: none;
+    border: none
+}
+
+small {
+    color: #F2CEFF
+}
+
+.far.fa-user {
+    font-size: 13px
+}
+
+@media(min-width: 767px) {
+    .bn {
+        text-align: right
+    }
+}
+
+@media(max-width: 767px) {
+    .form-check {
+        text-align: center
+    }
+
+    .bn {
+        text-align: center;
+        align-items: center
+    }
+}
+
+@media(max-width: 450px) {
+    .fab {
+        width: 100%;
+        height: 100%
+    }
+
+    .division .line {
+        width: 50%
+    }
+}*/
+
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #f2f2f2;
+  background: rgba(64, 164, 147,0.8);
+  background: rgba(0, 133, 111, 0.1);	
+  background: url('assets/images/legoc.jpg') -10%;
+  background-size: cover;
+}
+
+.degrade_modal{
+	position: absolute; 
+	width: 100%;
+	height: 100%;
+	border: 0px solid #c30;
+	background: rgba(40,40,40,0.8);
+	background: rgb(100,100,50,0.1);
+	background: linear-gradient(0deg, rgba(0,0,0,0.8) 10%, rgba(117,117,117,0.3) 120%);
+	margin: 0px;
+	top: 0px; 
+	left: 0px; 
+	right: 0px; 
+	bottom: 0px; 
+	margin-right:0px;
+	padding: 0px 0 0 0;
+	display: block; 
+	
+}
+.container {
+  max-width: 900px;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+input {
+  outline: none !important;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  font-weight: 700;
+}
+
+section#formHolder {
+  padding: 50px 0;
+}
+
+.brand {
+  padding: 20px;
+  /*background: url('assets/images/legoa.jpg');
+  background: rgba(0, 133, 111,0.6);*/
+  background: rgba(0, 133, 111, 0.8);
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  min-height: 540px;
+  position: relative;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  transition: all 0.6s cubic-bezier(1, -0.375, 0.285, 0.995);
+  z-index: 9999;
+}
+.brand.active {
+  width: 100%;
+}
+.brand::before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.85);
+  z-index: -1;
+}
+.brand a.logo {
+  color: #00856f;
+  font-size: 20px;
+  font-weight: 700;
+  text-decoration: none;
+  line-height: 1em;
+}
+.brand a.logo span {
+  font-size: 30px;
+  color: #fff;
+  transform: translateX(-5px);
+  display: inline-block;
+}
+.brand .heading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  transition: all 0.6s;
+}
+.brand .heading.active {
+  top: 100px;
+  left: 100px;
+  transform: translate(0);
+}
+.brand .heading h2 {
+  font-size: 70px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+.brand .heading p {
+  font-size: 15px;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  white-space: 4px;
+  font-family: "Raleway", sans-serif;
+}
+.brand .success-msg {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 60px;
+}
+.brand .success-msg p {
+  font-size: 25px;
+  font-weight: 400;
+  font-family: "Raleway", sans-serif;
+}
+.brand .success-msg a {
+  font-size: 12px;
+  text-transform: uppercase;
+  padding: 8px 30px;
+  background: #00856f;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 30px;
+}
+.brand .success-msg p, .brand .success-msg a {
+  transition: all 0.9s;
+  transform: translateY(20px);
+  opacity: 0;
+}
+.brand .success-msg p.active, .brand .success-msg a.active {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.form {
+  position: relative;
+}
+.form .form-peice {
+  background: #fff;
+  min-height: 480px;
+  margin-top: 30px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+  color: #bbbbbb;
+  padding: 30px 0 60px;
+  transition: all 0.9s cubic-bezier(1, -0.375, 0.285, 0.995);
+  position: absolute;
+  top: 0;
+  left: -30%;
+  width: 130%;
+  overflow: hidden;
+}
+.form .form-peice.switched {
+  transform: translateX(-100%);
+  width: 100%;
+  left: 0;
+}
+.form form {
+  padding: 0 40px;
+  margin: 0;
+  width: 70%;
+  position: absolute;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+}
+.form form .form-group {
+  margin-bottom: 5px;
+  position: relative;
+}
+.form form .form-group.hasError input {
+  border-color: #00856f !important;
+}
+.form form .form-group.hasError label {
+  color: #00856f !important;
+}
+.form form label {
+  font-size: 12px;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  transform: translateY(40px);
+  transition: all 0.4s;
+  cursor: text;
+  z-index: -1;
+}
+.form form label.active {
+  transform: translateY(10px);
+  font-size: 10px;
+}
+.form form label.fontSwitch {
+  font-family: "Raleway", sans-serif !important;
+  font-weight: 600;
+}
+.form form input:not([type=submit]) {
+  background: none;
+  outline: none;
+  border: none;
+  display: block;
+  padding: 10px 0;
+  width: 100%;
+  border-bottom: 1px solid #eee;
+  color: #444;
+  font-size: 15px;
+  font-family: "Montserrat", sans-serif;
+  z-index: 1;
+}
+.form form input:not([type=submit]).hasError {
+  border-color: #00856f;
+}
+.form form span.error {
+  color: #00856f;
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  position: absolute;
+  bottom: -20px;
+  right: 0;
+  display: none;
+}
+.form form input[type=password] {
+  color: #00856f;
+}
+.form form .CTA {
+  margin-top: 30px;
+}
+.form form .CTA input {
+  font-size: 12px;
+  text-transform: uppercase;
+  padding: 5px 30px;
+  background: #00856f;
+  color: #fff;
+  border-radius: 30px;
+  margin-right: 20px;
+  border: none;
+  font-family: "Montserrat", sans-serif;
+}
+.form form .CTA a.switch, .link {
+  font-size: 13px;
+  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+  color: #bbbbbb;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+.form form .CTA a.switch:hover, .link:hover{
+  color: #00856f;
+}
+
+footer {
+  text-align: center;
+}
+footer p {
+  color: #777;
+}
+footer p a, footer p a:focus {
+  color: #b8b09f;
+  transition: all 0.3s;
+  text-decoration: none !important;
+}
+footer p a:hover, footer p a:focus:hover {
+  color: #00856f;
+}
+
+@media (max-width: 768px) {
+  .container {
+    overflow: hidden;
+  }
+
+  section#formHolder {
+    padding: 0;
+  }
+  section#formHolder div.brand {
+    min-height: 200px !important;
+  }
+  section#formHolder div.brand.active {
+    min-height: 100vh !important;
+  }
+  section#formHolder div.brand .heading.active {
+    top: 200px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  section#formHolder div.brand .success-msg p {
+    font-size: 16px;
+  }
+  section#formHolder div.brand .success-msg a {
+    padding: 5px 30px;
+    font-size: 10px;
+  }
+  section#formHolder .form {
+    width: 80vw;
+    min-height: 500px;
+    margin-left: 10vw;
+  }
+  section#formHolder .form .form-peice {
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    transition: all 0.5s ease-in-out;
+  }
+  section#formHolder .form .form-peice.switched {
+    transform: translateY(-100%);
+    width: 100%;
+    left: 0;
+  }
+  section#formHolder .form .form-peice > form {
+    width: 100% !important;
+    padding: 60px;
+    left: 50%;
+  }
+}
+@media (max-width: 480px) {
+  section#formHolder .form {
+    width: 100vw;
+    margin-left: 0;
+  }
+
+  h2 {
+    font-size: 50px !important;
+  }
+}

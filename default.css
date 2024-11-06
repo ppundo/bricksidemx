@@ -1,0 +1,420 @@
+
+	
+	.diactive_star{
+		color: #e2e2e2;
+	}
+
+	
+	.active_star{
+		color: #ffb703;
+	}
+	
+
+.card_figura{
+ 
+}
+
+
+
+	.imagen{
+		position: absolute;
+		float: left;
+		width: 20%;
+		height: 99%; 
+		border: 0px solid #121212; 
+		background: rgba(1,1,1,0.0);
+		margin-left: 0px; 
+		left: 5px;
+		margin-right: 10px;
+		z-index: 98;
+		top: 1%;
+		
+	}
+
+.active_image {
+    -webkit-filter: opacity(100%) grayscale(1%) blur(0px);
+    filter: opacity(100%) grayscale(1%) blur(0px);
+}
+
+.card-title-figura {
+	font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+	.hold_options{
+		position: absolute;
+		right: 5px; 
+		top: 2px;
+		z-index: 100; 
+		width: 30px; 
+		height: 98%; 
+		border: 0px solid #8a2222;
+		text-align: right;		
+		bottom: 2px;
+		z-index: 99;
+		    align-content: center;
+    vertical-align: middle;
+    text-align: center; 
+	}
+
+.card-body-figura {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+	    padding: 1.88rem 1.81rem;
+	        padding: 1.25rem;
+    height: 120px;
+    z-index: 99;
+    
+    margin-left: 30%;
+}
+
+	.numero_item{
+		position: absolute; 
+		top: 1px; 
+		width: 20%;
+		height: 20px; 
+		text-align: left;
+		font-size: 14px; 
+		font-family: 'Open Sans','sans','verdana';
+		color:#949494; 
+		border: 0px solid #c30;
+		z-index: 100;
+	}
+
+
+	
+		.ico-option{
+		color: #c9c9c9;
+	}
+
+.bubble_text{
+border-radius: 3px;
+padding: 1px 5px;
+font-size: 11px; 
+}
+
+	.hover_imagen_effect{
+
+	}
+	
+	.table_fig{
+		display: none; 
+	}
+	
+	.prompt_item{
+	display: none; 
+}
+
+.star_item{
+	display: inline-block; 
+}
+
+.stat{
+	display: none; 
+}
+
+.prompt_item{
+	display: none;
+}
+
+.txt_large{
+	font-size: 18px; 
+}
+
+
+.txt_small{
+	font-size: 14px; 
+}
+
+.active_trophy{
+	color: rgba(245, 180, 12, 0.96);
+	
+}
+
+.diactive_trophy{
+	color: rgba(108, 108, 108, 0.21); 
+	
+}
+
+/* ---------------------------- Mosaico de Series ------------------------------*/
+.card_body_main{
+	margin-left: 30%;
+	height: 120px;
+	z-index: 99;
+	border: 0px solid #aaa;
+}
+.complete{
+		background: url('assets/images/cover_minimal.png') -20px -20px no-repeat 	; 
+}
+
+.tematica{
+		background: url('assets/images/cover_sombra.png') -20px -20px no-repeat 	; 
+}
+
+.shelf_card{
+	border:none; 
+	border-bottom: 1px solid #004033;
+	box-shadow: none;
+}
+
+.hold_ico_card{
+	position: absolute; 
+	left: 0px; 
+	top: 30px; 
+	z-index: 99; 
+	border: 0px solid #c30;
+	width: 25px; 
+	height: 60%; 
+	border-radius: 0 5px 5px 0; 
+	background: rgba(220,220,220, 0.0);
+	
+}
+
+
+.ico_col_personal{
+	color: #fff; 
+	margin: 1px; 
+	z-index: 99;
+	background: rgba(88, 130, 144, 0.77);
+	background: rgba(0, 192, 154, 0.95); 
+	/*background: #c2c2c2;*/
+	border-radius: 0 30px 30px 0; 
+	padding: 2px 5px;
+	font-size: 12px; 
+	cursor: help;
+}
+
+.ico_mant{
+	color: #fff; 
+	margin: 1px; 
+	z-index: 99;
+	background: rgba(255, 103, 161, 0.96);
+	/*background: #c2c2c2;*/
+	border-radius: 0 30px 30px 0; 
+	padding: 2px 5px;
+	font-size: 14px; 
+	cursor: help;
+}
+
+.ico_premium{
+	color: #fff; 
+	margin: 1px; 
+	z-index: 99;
+	background: #7C63F7;
+	/*background: #c2c2c2;*/
+	border-radius: 0 30px 30px 0; 
+	padding: 2px 5px;
+	padding-right: 10px; 
+	font-size: 12px; 
+	cursor: help;
+	
+}
+
+.ico_test{
+	color: #fff; 
+	margin: 1px; 
+	z-index: 99;
+	background: #F78502;
+	/*background: #c2c2c2;*/
+	border-radius: 0 40px 30px 0; 
+	padding: 2px 5px;
+	font-size: 14px; 
+	cursor: help;
+}
+
+.ico_teaser{
+
+	color: #fff; 
+	margin: 1px; 
+	z-index: 99;
+	background: #c82222;
+	border-radius: 0 30px 30px 0; 
+	padding: 2px 5px;
+	font-size: 14px; 
+	cursor: help;
+}
+
+.num_card{
+	position: absolute; 
+	left: 10px; 
+	top: 2px;
+	font-size: 14px; 
+	color: rgba(100,100,100,0.5);
+	z-index: 99;  
+	
+}
+
+.ico_hide{
+	color: #fff;
+	margin: 1px;
+	z-index: 99;
+	background:rgba(40, 40, 40, 0.46); 
+	/*background: #c2c2c2;*/
+	border-radius: 0 30px 30px 0; 
+	padding: 2px 5px;
+	font-size: 14px; 
+	cursor: help;
+}
+
+.text-adv{
+	color:#ccc;
+	font-size: 14px;
+	color: #898989;
+}
+
+	.hover_imagen_main{
+		z-index: 85;
+		display: block;
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		max-height: 100%;
+		background: url('assets/images/cover_minimal.png') -20px -20px no-repeat 	; 
+		left:0px;
+		right: 0px;
+		bottom: 0px; 
+		border-radius: 5px 5px 5px 5px; 
+		border: 0px solid #c40;
+	}
+	
+	.hold_bg_conf{
+		position: absolute;
+		width: 35%;
+		height: 100%;
+		z-index: 80;
+		right: 0px; 
+		bottom: 0px;
+		border-radius: 3px 3px 3px 3px;
+		max-height: 100%;
+		right: 0px;
+		top: 0px;
+		border: 0px solid #a30; 		
+	}
+
+	.back_color_main{
+		position: absolute;
+		width: 100%;
+		z-index: 80;
+		bottom: 0px;
+		border-radius: 3px 3px 3px 3px;
+		max-height: 100%; 
+	}
+	
+.imagen_main{
+		position: absolute;
+		float: left;
+		width: 35%;
+		height: 99%; 
+		border: 0px solid #121212; 
+		background: rgba(1,1,1,0.0);
+		margin-left: 0px; 
+		left: 1px;
+		margin-right: 1px;
+		top: 0px;
+		z-index: 98;
+		
+}
+	
+.star_collection_main{
+	position: absolute; 
+	width: 100%; 
+	margin-left: 20%; 
+	left: -10%; 
+	top: 20%;
+	border: 0px solid #c30; 
+	text-align: center;
+}
+
+	.degrade{
+		height: 100%; 
+		z-index: 98; 
+		background: rgba(250,250,250,0.8);
+		background:linear-gradient(155deg, rgba(250,250,250,0.6 ) 30%, rgba(250,250,250,1 ) 100%);
+		display: none;
+	}
+
+.align-left-min{
+	margin-left: 10%; 
+}
+
+.align-left-max{
+	margin-left: 30%; 
+}
+
+.bg_theme{
+	display: block;
+}
+
+.subname_main{
+	font-size: 20px;
+	color: #00856f;
+	margin-top: -3px;
+}
+	
+.imagen_serie{
+	display: none;	
+}
+
+.text_link{
+	font-size: 24px;
+	/*padding: 5px 10px; 
+	background: #d2d2d2;
+	border-radius: 5px;
+	background: #052A2B;
+background: -webkit-linear-gradient(to top, rgba(10,10,10,0.8) 0%, rgba(10,10,10,0.8) 100%);
+background: -moz-linear-gradient(to top, rgba(10,10,10,0.8) 0%, rgba(10,10,10,0.8) 100%);
+background: linear-gradient(to top, rgba(10,10,10,0.8) 0%, rgba(10,10,10,0.8) 100%);
+		*/
+}
+
+a.text_link:hover{
+	
+}
+
+.title_card_mosaico{
+	font-family: 'Kanit', sans-serif;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+		font-family: 'Signika', sans-serif;
+	font-family: 'Cuprum', sans-serif;
+	font-family: 'Open Sans Condensed', sans-serif;
+
+	font-size: 22px; 
+	
+}
+
+.card-title{
+	padding-bottom: 0px;
+	margin-bottom: 3px;
+}
+
+.ico_link{
+	display: inline-block; 
+}
+
+.bg_color_degradado{
+	display: block;	
+}
+
+.bg_imagen_portada{
+ display: none;
+}
+
+.conteo_minimal{
+	display: none;
+}
+
+.image_portada{
+	right: 20px; 
+	border-bottom: 10px;
+	border: 0px solid #c30;
+	height: 100px;
+	text-align: right;
+	float: right;
+}
+
+.imagen_serie{
+	display: block;
+	bottom: 0px;
+	
+}
