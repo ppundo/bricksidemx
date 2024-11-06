@@ -71,7 +71,7 @@ $perfiles = ' <option value="X" >Elije...</option>'.generaListPerfiles(0);
 										<h6 style="margin-bottom: 0; font-size: 12px;">
 										<span style="margin-right: 3px; "><i class="fa fa-'.$rowb['icon'].'"></i></span> 
 										'.$rowb['title'].'
-										
+										 
 										
 											<a  class="mnu_btn" onclick="toggle(\''.'s_'.$rowb['id'].'\')" >
 												<i class="fa fa-angle-down"></i>
