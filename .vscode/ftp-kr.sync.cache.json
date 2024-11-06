@@ -1,0 +1,1121 @@
+{
+  "ftp://ppundo@bricksidemx.com@redconsumoresponsable.org": {
+    ".DS_Store": {
+      "type": "-",
+      "size": 8196,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".ftpquota": {
+      "type": "-",
+      "size": 16,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".vscode": {},
+    "acceso_serie.php": {
+      "type": "-",
+      "size": 15459,
+      "lmtime": 0,
+      "modified": false
+    },
+    "acceso_serieb.php": {
+      "type": "-",
+      "size": 611,
+      "lmtime": 0,
+      "modified": false
+    },
+    "access.php": {
+      "type": "-",
+      "size": 278,
+      "lmtime": 0,
+      "modified": false
+    },
+    "acerca.php": {
+      "type": "-",
+      "size": 798,
+      "lmtime": 0,
+      "modified": false
+    },
+    "activdonadorregistra.php": {
+      "type": "-",
+      "size": 3156,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_codigosqr_grupo.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_codigosqr_inventario.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_config_sets.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_cupones.php": {
+      "type": "-",
+      "size": 1115,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_fotos.php": {
+      "type": "-",
+      "size": 3639,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_fotos_set.php": {
+      "type": "-",
+      "size": 2477,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_inventario_minifig.php": {
+      "type": "-",
+      "size": 15839,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_invitaciones.php": {
+      "type": "-",
+      "size": 1029,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_logos_sets.php": {
+      "type": "-",
+      "size": 4594,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_menu.php": {
+      "type": "-",
+      "size": 16200,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_menu_bkup_ok.php": {
+      "type": "-",
+      "size": 8136,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_perfiles.php": {
+      "type": "-",
+      "size": 14948,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_serie.php": {
+      "type": "-",
+      "size": 29172,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_sets.php": {
+      "type": "-",
+      "size": 19018,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_tablas.php": {
+      "type": "-",
+      "size": 3665,
+      "lmtime": 0,
+      "modified": false
+    },
+    "admin_user.php": {
+      "type": "-",
+      "size": 24152,
+      "lmtime": 0,
+      "modified": false
+    },
+    "ajaxLogin.php": {
+      "type": "-",
+      "size": 5124,
+      "lmtime": 0,
+      "modified": false
+    },
+    "ajaxRegister.php": {
+      "type": "-",
+      "size": 3693,
+      "lmtime": 0,
+      "modified": false
+    },
+    "assets": {},
+    "barcodes": {},
+    "bienvenida.php": {
+      "type": "-",
+      "size": 1150,
+      "lmtime": 0,
+      "modified": false
+    },
+    "breadcrumbs.php": {
+      "type": "-",
+      "size": 802,
+      "lmtime": 0,
+      "modified": false
+    },
+    "bypass_php.php": {
+      "type": "-",
+      "size": 643,
+      "lmtime": 0,
+      "modified": false
+    },
+    "central_impresion_set.php": {
+      "type": "-",
+      "size": 124,
+      "lmtime": 0,
+      "modified": false
+    },
+    "cerrarsesion.php": {
+      "type": "-",
+      "size": 423,
+      "lmtime": 0,
+      "modified": false
+    },
+    "check_access.php": {
+      "type": "-",
+      "size": 500,
+      "lmtime": 0,
+      "modified": false
+    },
+    "coleccion_barcodes.php": {
+      "type": "-",
+      "size": 6860,
+      "lmtime": 0,
+      "modified": false
+    },
+    "coleccion_col_balance.php": {
+      "type": "-",
+      "size": 10544,
+      "lmtime": 0,
+      "modified": false
+    },
+    "coleccion_col_canvas.php": {
+      "type": "-",
+      "size": 10650,
+      "lmtime": 0,
+      "modified": false
+    },
+    "coleccion_col_collectors.php": {
+      "type": "-",
+      "size": 2615,
+      "lmtime": 0,
+      "modified": false
+    },
+    "coleccion_col_editar.php": {
+      "type": "-",
+      "size": 10563,
+      "lmtime": 0,
+      "modified": false
+    },
+    "coleccion_col_figuras.php": {
+      "type": "-",
+      "size": 29818,
+      "lmtime": 0,
+      "modified": false
+    },
+    "coleccion_col_imagenes.php": {
+      "type": "-",
+      "size": 9528,
+      "lmtime": 0,
+      "modified": false
+    },
+    "coleccion_col_img_minifig.php": {
+      "type": "-",
+      "size": 8501,
+      "lmtime": 0,
+      "modified": false
+    },
+    "coleccion_user.php": {
+      "type": "-",
+      "size": 96,
+      "lmtime": 0,
+      "modified": false
+    },
+    "collector.js": {
+      "type": "-",
+      "size": 108240,
+      "lmtime": 0,
+      "modified": false
+    },
+    "conf_general.php": {
+      "type": "-",
+      "size": 1083,
+      "lmtime": 0,
+      "modified": false
+    },
+    "configuracion_sets.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "crear_portada_serie.php": {
+      "type": "-",
+      "size": 7626,
+      "lmtime": 0,
+      "modified": false
+    },
+    "csv_files": {},
+    "cuenta.php": {
+      "type": "-",
+      "size": 59295,
+      "lmtime": 0,
+      "modified": false
+    },
+    "cupon_col_admin.php": {
+      "type": "-",
+      "size": 19862,
+      "lmtime": 0,
+      "modified": false
+    },
+    "cupon_col_edita.php.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "cupon_col_nuevo.php": {
+      "type": "-",
+      "size": 4470,
+      "lmtime": 0,
+      "modified": false
+    },
+    "cupon_col_uso.php": {
+      "type": "-",
+      "size": 12142,
+      "lmtime": 0,
+      "modified": false
+    },
+    "custom.css": {
+      "type": "-",
+      "size": 82779,
+      "lmtime": 0,
+      "modified": false
+    },
+    "dashboard.php": {
+      "type": "-",
+      "size": 42,
+      "lmtime": 0,
+      "modified": false
+    },
+    "default.css": {
+      "type": "-",
+      "size": 6407,
+      "lmtime": 0,
+      "modified": false
+    },
+    "depuring,php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "depuring.php": {
+      "type": "-",
+      "size": 66746,
+      "lmtime": 0,
+      "modified": false
+    },
+    "desarrollador.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "detalle_coleccion.php": {
+      "type": "-",
+      "size": 5061,
+      "lmtime": 0,
+      "modified": false
+    },
+    "detalle_perfil.php": {
+      "type": "-",
+      "size": 2394,
+      "lmtime": 0,
+      "modified": false
+    },
+    "detalle_sugerencia.php": {
+      "type": "-",
+      "size": 8941,
+      "lmtime": 0,
+      "modified": false
+    },
+    "detalle_tema.php": {
+      "type": "-",
+      "size": 10926,
+      "lmtime": 0,
+      "modified": false
+    },
+    "detalle_user.php": {
+      "type": "-",
+      "size": 2426,
+      "lmtime": 0,
+      "modified": false
+    },
+    "drag_drop.js": {
+      "type": "-",
+      "size": 2392,
+      "lmtime": 0,
+      "modified": false
+    },
+    "edita_serie.php": {
+      "type": "-",
+      "size": 13199,
+      "lmtime": 0,
+      "modified": false
+    },
+    "editar_paginas.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "empty.php": {
+      "type": "-",
+      "size": 50,
+      "lmtime": 0,
+      "modified": false
+    },
+    "error_log": {
+      "type": "-",
+      "size": 23696473,
+      "lmtime": 0,
+      "modified": false
+    },
+    "framepage.php": {
+      "type": "-",
+      "size": 9758,
+      "lmtime": 0,
+      "modified": false
+    },
+    "functions.js": {
+      "type": "-",
+      "size": 302803,
+      "lmtime": 0,
+      "modified": false
+    },
+    "functions_erro.js": {
+      "type": "-",
+      "size": 226562,
+      "lmtime": 0,
+      "modified": false
+    },
+    "general copy.php": {
+      "type": "-",
+      "size": 45150,
+      "lmtime": 0,
+      "modified": false
+    },
+    "general.php": {
+      "type": "-",
+      "size": 35643,
+      "lmtime": 0,
+      "modified": false
+    },
+    "general_alt.php": {
+      "type": "-",
+      "size": 16375,
+      "lmtime": 0,
+      "modified": false
+    },
+    "globals.php": {
+      "type": "-",
+      "size": 2136,
+      "lmtime": 0,
+      "modified": false
+    },
+    "home.php": {
+      "type": "-",
+      "size": 226,
+      "lmtime": 0,
+      "modified": false
+    },
+    "imagenes_series.php": {
+      "type": "-",
+      "size": 13940,
+      "lmtime": 0,
+      "modified": false
+    },
+    "imagenes_sets.php": {
+      "type": "-",
+      "size": 7534,
+      "lmtime": 0,
+      "modified": false
+    },
+    "imprime_etiquetas.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "index.php": {
+      "type": "-",
+      "size": 20898,
+      "lmtime": 0,
+      "modified": false
+    },
+    "informes.php": {
+      "type": "-",
+      "size": 6839,
+      "lmtime": 0,
+      "modified": false
+    },
+    "inicio.php": {
+      "type": "-",
+      "size": 313,
+      "lmtime": 0,
+      "modified": false
+    },
+    "inventario.php": {
+      "type": "-",
+      "size": 44679,
+      "lmtime": 0,
+      "modified": false
+    },
+    "invitacion_col_admin.php": {
+      "type": "-",
+      "size": 11972,
+      "lmtime": 0,
+      "modified": false
+    },
+    "invitacion_col_nuevo.php": {
+      "type": "-",
+      "size": 4274,
+      "lmtime": 0,
+      "modified": false
+    },
+    "invitacion_col_qrfiles.php": {
+      "type": "-",
+      "size": 7837,
+      "lmtime": 0,
+      "modified": false
+    },
+    "invitaciones.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "login.css": {
+      "type": "-",
+      "size": 10029,
+      "lmtime": 0,
+      "modified": false
+    },
+    "login.php": {
+      "type": "-",
+      "size": 19643,
+      "lmtime": 0,
+      "modified": false
+    },
+    "logos_sets.php": {
+      "type": "-",
+      "size": 4559,
+      "lmtime": 0,
+      "modified": false
+    },
+    "logout.php": {
+      "type": "-",
+      "size": 151,
+      "lmtime": 0,
+      "modified": false
+    },
+    "logs": {},
+    "mailing.php": {
+      "type": "-",
+      "size": 17624,
+      "lmtime": 0,
+      "modified": false
+    },
+    "marketplace.php": {
+      "type": "-",
+      "size": 3477,
+      "lmtime": 0,
+      "modified": false
+    },
+    "media": {},
+    "minifig": {},
+    "minifigures.php": {
+      "type": "-",
+      "size": 672677,
+      "lmtime": 0,
+      "modified": false
+    },
+    "minifigures_orig.php": {
+      "type": "-",
+      "size": 613220,
+      "lmtime": 0,
+      "modified": false
+    },
+    "minimal.css": {
+      "type": "-",
+      "size": 12459,
+      "lmtime": 0,
+      "modified": false
+    },
+    "modal_barcode.php": {
+      "type": "-",
+      "size": 1914,
+      "lmtime": 0,
+      "modified": false
+    },
+    "modal_codigos.php": {
+      "type": "-",
+      "size": 519,
+      "lmtime": 0,
+      "modified": false
+    },
+    "modal_coleccion_public.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "modal_config_gridsets.php": {
+      "type": "-",
+      "size": 363,
+      "lmtime": 0,
+      "modified": false
+    },
+    "modal_detalle_recibo.php": {
+      "type": "-",
+      "size": 7607,
+      "lmtime": 0,
+      "modified": false
+    },
+    "modal_grupos.php": {
+      "type": "-",
+      "size": 2575,
+      "lmtime": 0,
+      "modified": false
+    },
+    "modal_sesion.php": {
+      "type": "-",
+      "size": 4536,
+      "lmtime": 0,
+      "modified": false
+    },
+    "modal_sim.php": {
+      "type": "-",
+      "size": 1292,
+      "lmtime": 0,
+      "modified": false
+    },
+    "modal_ubicaciones.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "modals.php": {
+      "type": "-",
+      "size": 12,
+      "lmtime": 0,
+      "modified": false
+    },
+    "nav-bar.php": {
+      "type": "-",
+      "size": 7389,
+      "lmtime": 0,
+      "modified": false
+    },
+    "no_access.php": {
+      "type": "-",
+      "size": 579,
+      "lmtime": 0,
+      "modified": false
+    },
+    "nueva_serie.php": {
+      "type": "-",
+      "size": 25980,
+      "lmtime": 0,
+      "modified": false
+    },
+    "nueva_serie_bkup_ok_jun.php": {
+      "type": "-",
+      "size": 19680,
+      "lmtime": 0,
+      "modified": false
+    },
+    "nuevo_perfil.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "nuevo_set.php": {
+      "type": "-",
+      "size": 7599,
+      "lmtime": 0,
+      "modified": false
+    },
+    "nuevo_tema.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "nuevo_user.php": {
+      "type": "-",
+      "size": 74,
+      "lmtime": 0,
+      "modified": false
+    },
+    "pages": {},
+    "partials": {},
+    "perfil.php": {
+      "type": "-",
+      "size": 5419,
+      "lmtime": 0,
+      "modified": false
+    },
+    "permisos_perfil.php": {
+      "type": "-",
+      "size": 5864,
+      "lmtime": 0,
+      "modified": false
+    },
+    "public.php": {
+      "type": "-",
+      "size": 6034,
+      "lmtime": 0,
+      "modified": false
+    },
+    "public_central_imp_set.php": {
+      "type": "-",
+      "size": 9643,
+      "lmtime": 0,
+      "modified": false
+    },
+    "public_central_impresion_set.php": {
+      "type": "-",
+      "size": 288,
+      "lmtime": 0,
+      "modified": false
+    },
+    "public_coleccion.php": {
+      "type": "-",
+      "size": 9215,
+      "lmtime": 0,
+      "modified": false
+    },
+    "public_coleccion_barcodes.php": {
+      "type": "-",
+      "size": 7990,
+      "lmtime": 0,
+      "modified": false
+    },
+    "public_coleccion_barcodes_error.php": {
+      "type": "-",
+      "size": 5613,
+      "lmtime": 0,
+      "modified": false
+    },
+    "public_coleccion_serie.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "public_invitacion.php": {
+      "type": "-",
+      "size": 1934,
+      "lmtime": 0,
+      "modified": false
+    },
+    "public_link_config.php": {
+      "type": "-",
+      "size": 29,
+      "lmtime": 0,
+      "modified": false
+    },
+    "public_set_detalles.php": {
+      "type": "-",
+      "size": 10263,
+      "lmtime": 0,
+      "modified": false
+    },
+    "qrlibrary": {},
+    "recuperapass.php": {
+      "type": "-",
+      "size": 3472,
+      "lmtime": 0,
+      "modified": false
+    },
+    "register.html": {
+      "type": "-",
+      "size": 3116,
+      "lmtime": 0,
+      "modified": false
+    },
+    "resetpass.php": {
+      "type": "-",
+      "size": 11283,
+      "lmtime": 0,
+      "modified": false
+    },
+    "save_minifigures.php": {
+      "type": "-",
+      "size": 243919,
+      "lmtime": 0,
+      "modified": false
+    },
+    "sesion.class.php": {
+      "type": "-",
+      "size": 499,
+      "lmtime": 0,
+      "modified": false
+    },
+    "sets.php": {
+      "type": "-",
+      "size": 60821,
+      "lmtime": 0,
+      "modified": false
+    },
+    "sets_bkup.php": {
+      "type": "-",
+      "size": 46854,
+      "lmtime": 0,
+      "modified": false
+    },
+    "shelf.php": {
+      "type": "-",
+      "size": 11874,
+      "lmtime": 0,
+      "modified": false
+    },
+    "sidebar.php": {
+      "type": "-",
+      "size": 7116,
+      "lmtime": 0,
+      "modified": false
+    },
+    "simple.css": {
+      "type": "-",
+      "size": 12577,
+      "lmtime": 0,
+      "modified": false
+    },
+    "statics.php": {
+      "type": "-",
+      "size": 4851,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_apariencia.php": {
+      "type": "-",
+      "size": 2844,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_colecciones.php": {
+      "type": "-",
+      "size": 1568,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_colopcional.php": {
+      "type": "-",
+      "size": 784,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_compartir.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_contrasena.php": {
+      "type": "-",
+      "size": 2189,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_contrasenamaster.php": {
+      "type": "-",
+      "size": 2792,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_cuenta.php": {
+      "type": "-",
+      "size": 1751,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_cupones.php": {
+      "type": "-",
+      "size": 1937,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_direccion.php": {
+      "type": "-",
+      "size": 5925,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_enviasug.php": {
+      "type": "-",
+      "size": 3197,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_figura_datos.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_fotoperfil.php": {
+      "type": "-",
+      "size": 3665,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_general.php": {
+      "type": "-",
+      "size": 1361,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_gral_perfil_.php": {
+      "type": "-",
+      "size": 5505,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_nombre.php": {
+      "type": "-",
+      "size": 2441,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_perfil.php": {
+      "type": "-",
+      "size": 4748,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_recibos.php": {
+      "type": "-",
+      "size": 508,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_sets.php": {
+      "type": "-",
+      "size": 7080,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submenu_sugerencias.php": {
+      "type": "-",
+      "size": 395,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submnu_perfil_general.php": {
+      "type": "-",
+      "size": 5944,
+      "lmtime": 0,
+      "modified": false
+    },
+    "submnu_perfil_gral.php": {
+      "type": "-",
+      "size": 272,
+      "lmtime": 0,
+      "modified": false
+    },
+    "tech.css": {
+      "type": "-",
+      "size": 18618,
+      "lmtime": 0,
+      "modified": false
+    },
+    "test": {},
+    "test n.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "test.js": {
+      "type": "-",
+      "size": 143213,
+      "lmtime": 0,
+      "modified": false
+    },
+    "test.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "test2.php": {
+      "type": "-",
+      "size": 1049,
+      "lmtime": 0,
+      "modified": false
+    },
+    "test3.php": {
+      "type": "-",
+      "size": 28038,
+      "lmtime": 0,
+      "modified": false
+    },
+    "test4.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "test_js.js": {
+      "type": "-",
+      "size": 10295,
+      "lmtime": 0,
+      "modified": false
+    },
+    "testing.css": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "testing.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "title.php": {
+      "type": "-",
+      "size": 23713,
+      "lmtime": 0,
+      "modified": false
+    },
+    "todas_minifig.php": {
+      "type": "-",
+      "size": 3871,
+      "lmtime": 0,
+      "modified": false
+    },
+    "todos_sets.php": {
+      "type": "-",
+      "size": 21554,
+      "lmtime": 0,
+      "modified": false
+    },
+    "upload.php": {
+      "type": "-",
+      "size": 3482,
+      "lmtime": 0,
+      "modified": false
+    },
+    "upload_general.php": {
+      "type": "-",
+      "size": 11044,
+      "lmtime": 0,
+      "modified": false
+    },
+    "upload_original.php": {
+      "type": "-",
+      "size": 3460,
+      "lmtime": 0,
+      "modified": false
+    },
+    "uploader_profile.php": {
+      "type": "-",
+      "size": 442,
+      "lmtime": 0,
+      "modified": false
+    },
+    "user_col_colecciones.php": {
+      "type": "-",
+      "size": 657,
+      "lmtime": 0,
+      "modified": false
+    },
+    "user_col_historial_acceso.php": {
+      "type": "-",
+      "size": 1390,
+      "lmtime": 0,
+      "modified": false
+    },
+    "user_col_historial_navega.php": {
+      "type": "-",
+      "size": 3195,
+      "lmtime": 0,
+      "modified": false
+    },
+    "user_col_opcionales.php": {
+      "type": "-",
+      "size": 667,
+      "lmtime": 0,
+      "modified": false
+    },
+    "user_col_perfil.php": {
+      "type": "-",
+      "size": 21189,
+      "lmtime": 0,
+      "modified": false
+    },
+    "user_col_premium.php": {
+      "type": "-",
+      "size": 633,
+      "lmtime": 0,
+      "modified": false
+    },
+    "user_col_recibos.php": {
+      "type": "-",
+      "size": 909,
+      "lmtime": 0,
+      "modified": false
+    },
+    "user_col_sets.php": {
+      "type": "-",
+      "size": 623,
+      "lmtime": 0,
+      "modified": false
+    },
+    "user_col_sets.php.php": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    "user_col_sugerencias.php": {
+      "type": "-",
+      "size": 966,
+      "lmtime": 0,
+      "modified": false
+    },
+    "vendor": {},
+    "vista_col_coleccion.php": {
+      "type": "-",
+      "size": 13031,
+      "lmtime": 0,
+      "modified": false
+    },
+    "vista_col_minifig.php": {
+      "type": "-",
+      "size": 11868,
+      "lmtime": 0,
+      "modified": false
+    }
+  },
+  "$version": 1
+}
