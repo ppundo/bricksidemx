@@ -151,6 +151,12 @@
       "lmtime": 0,
       "modified": false
     },
+    "analitica_balance_series.php": {
+      "type": "-",
+      "size": 10596,
+      "lmtime": 1731033323950,
+      "modified": false
+    },
     "assets": {},
     "barcodes": {},
     "bienvenida.php": {
@@ -197,9 +203,9 @@
     },
     "coleccion_col_balance.php": {
       "type": "-",
-      "size": 10544,
+      "size": 11795,
       "lmtime": 0,
-      "modified": false
+      "modified": true
     },
     "coleccion_col_canvas.php": {
       "type": "-",
@@ -245,9 +251,9 @@
     },
     "collector.js": {
       "type": "-",
-      "size": 108240,
+      "size": 109227,
       "lmtime": 0,
-      "modified": false
+      "modified": true
     },
     "conf_general.php": {
       "type": "-",
@@ -294,9 +300,9 @@
     },
     "cupon_col_uso.php": {
       "type": "-",
-      "size": 12142,
+      "size": 12023,
       "lmtime": 0,
-      "modified": false
+      "modified": true
     },
     "custom.css": {
       "type": "-",
@@ -360,9 +366,9 @@
     },
     "detalle_user.php": {
       "type": "-",
-      "size": 2426,
+      "size": 2425,
       "lmtime": 0,
-      "modified": false
+      "modified": true
     },
     "drag_drop.js": {
       "type": "-",
@@ -390,9 +396,9 @@
     },
     "error_log": {
       "type": "-",
-      "size": 23696473,
+      "size": 37840139,
       "lmtime": 0,
-      "modified": false
+      "modified": true
     },
     "framepage.php": {
       "type": "-",
@@ -402,9 +408,9 @@
     },
     "functions.js": {
       "type": "-",
-      "size": 302803,
+      "size": 305465,
       "lmtime": 0,
-      "modified": false
+      "modified": true
     },
     "functions_erro.js": {
       "type": "-",
@@ -549,9 +555,9 @@
     "minifig": {},
     "minifigures.php": {
       "type": "-",
-      "size": 672677,
+      "size": 681899,
       "lmtime": 0,
-      "modified": false
+      "modified": true
     },
     "minifigures_orig.php": {
       "type": "-",
@@ -768,9 +774,9 @@
     },
     "save_minifigures.php": {
       "type": "-",
-      "size": 243919,
+      "size": 241465,
       "lmtime": 0,
-      "modified": false
+      "modified": true
     },
     "sesion.class.php": {
       "type": "-",
